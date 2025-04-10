@@ -1,0 +1,2 @@
+moves camera left and right angulary
+true or false on V1

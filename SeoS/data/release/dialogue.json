@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "garvoice",
+			"speed": 0.5,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "..."
+		},
+		{
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "Wouldn't 'cha look at that..."
+		},
+		{
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "Guess I overdid it, huh?"
+		},
+		{
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "That hurt like hell, but it's probably better than what 'ur girls father was gonna do, if he was to find me. . ."
+		},
+		{
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "-Can't stay like this for long, but... Even if our time was short..."
+		},
+		{
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "Let's end things off with a bang, 'lil man."
+		}
+	]
+}

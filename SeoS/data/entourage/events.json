@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				21600,
+				[
+					[
+						"camerazoom",
+						"0.7",
+						"10"
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Play Animation",
+						"happy",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				41400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

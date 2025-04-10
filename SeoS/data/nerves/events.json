@@ -1,0 +1,131 @@
+{
+	"song": {
+		"events": [
+			[
+				4200,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				40200,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				41400,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"camerazoom",
+						"1.2",
+						"7"
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"camerazoom",
+						"1.0",
+						"7"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"camerazoom",
+						"0.7",
+						"0.2"
+					]
+				]
+			],
+			[
+				109800,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"flash",
+						"1",
+						""
+					],
+					[
+						"blackscreen",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

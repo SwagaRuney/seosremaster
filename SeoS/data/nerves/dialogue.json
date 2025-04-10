@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "nervous",
+			"text": "hng. .  .",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.2,
+			"portrait": "gar"
+		},
+		{
+			"expression": "nervous",
+			"text": "That was fun, but my chest is feelin' funny...",
+			"boxState": "normal",
+			"sound": "garvoice",
+			"speed": 0.105,
+			"portrait": "gar"
+		},
+		{
+			"expression": "confused",
+			"text": "Beep..?",
+			"boxState": "normal",
+			"sound": "Bfvoice",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "I ain't giving up yet, though... you've got some tight bars, little man...",
+			"boxState": "normal",
+			"sound": "garvoiceLow",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "talk",
+			"text": "bee bo skibop dada!",
+			"boxState": "normal",
+			"sound": "bfvoicehigh",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Oh... You want me t'keep goin' ...?",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.08,
+			"portrait": "gar"
+		},
+		{
+			"expression": "nervous",
+			"text": "Fine by me... I'm enjoying this, actually...",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.075,
+			"portrait": "gar"
+		},
+		{
+			"expression": "default",
+			"text": "One more couldn't hurt... Right?",
+			"boxState": "normal",
+			"sound": "garvoicehigh",
+			"speed": 0.145,
+			"portrait": "gar"
+		},
+		{
+			"expression": "nervous",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.5,
+			"portrait": "gar"
+		},
+		{
+			"expression": "default",
+			"text": ". . . ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "gar"
+		}
+	]
+}

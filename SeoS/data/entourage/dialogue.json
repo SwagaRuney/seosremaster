@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "garvoicehigh",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "Man..."
+		},
+		{
+			"sound": "garvoice",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "Would ya look at that - the sun's rising and I won't be awake for once."
+		},
+		{
+			"sound": "garVoiceLow",
+			"speed": 0.185,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": ". . ."
+		},
+		{
+			"sound": "garVoiceLow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "Hey... Sorry for dyin' . . ."
+		},
+		{
+			"sound": "garVoicelow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "I just didn't want that thing killin' ya!"
+		},
+		{
+			"sound": "garVoiceLow",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "You're actually ... Really cool . . ."
+		},
+		{
+			"sound": "garvoice",
+			"speed": 0.05,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "I would've loved to funk with y'all more, but this is my fault..."
+		},
+		{
+			"sound": "garVoicelow",
+			"speed": 0.1,
+			"portrait": "gar",
+			"boxState": "normal",
+			"expression": "dippy",
+			"text": "I've got enough time for one last send-off, little man. You 2 stay safe, 'aight..?"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+1 (cam Game): 1 = invis 0 = visible
+2 (cam HUD): 1 = invis 0 = visible

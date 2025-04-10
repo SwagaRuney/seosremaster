@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Beep..?",
+			"boxState": "normal",
+			"sound": "Bfvoicelow",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "defaultalt",
+			"text": "Hm, Whats up, little man?",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "default",
+			"text": "Smoke catch 'ur attention?",
+			"boxState": "normal",
+			"sound": "garvoice",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep, Bop?",
+			"boxState": "normal",
+			"sound": "Bfvoice",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "default",
+			"text": "Yea, I guess you could say its pretty sweet...",
+			"boxState": "normal",
+			"sound": "garvoicehigh",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "defaultalt",
+			"text": "-you should try it out.",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "confused",
+			"text": "Beep, bope...",
+			"boxState": "normal",
+			"sound": "Bfvoicelow",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "default",
+			"text": "Ah, you sure..?-",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "default",
+			"text": "Come onnnnnn!",
+			"boxState": "normal",
+			"sound": "garvoicehigh",
+			"speed": 0.145,
+			"portrait": "gar"
+		},
+		{
+			"expression": "confused",
+			"text": "beep, bo",
+			"boxState": "normal",
+			"sound": "Bfvoicehigh",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "defaultalt",
+			"text": "Hmph...",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.075,
+			"portrait": "gar"
+		},
+		{
+			"expression": "default",
+			"text": "Tell you what, If you beat me in a friendly 'lil rap battle, I'll get of 'ur case. That sound good, little man?",
+			"boxState": "normal",
+			"sound": "garvoice",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "Bfvoicehigh",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "default",
+			"text": "Well, that got 'cha hyped up!",
+			"boxState": "normal",
+			"sound": "garvoicehigh",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "defaultalt",
+			"text": "its settled then,",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.05,
+			"portrait": "gar"
+		},
+		{
+			"expression": "defaultalt",
+			"text": "as long as you don't mind the smoke and all, calms the nerves, y'know...",
+			"boxState": "normal",
+			"sound": "garvoicelow",
+			"speed": 0.07,
+			"portrait": "gar"
+		}
+	]
+}

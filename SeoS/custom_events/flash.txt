@@ -1,0 +1,4 @@
+flash script yeeeaaaaaaaa
+value one is color
+value two is time
+if left blank it'll do a one second white flash

@@ -1,0 +1,59 @@
+{
+	"storyName": "Smoke 'em Out Struggle!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"headache",
+			"garcello",
+			[
+				100,
+				255,
+				153
+			]
+		],
+		[
+			"nerves",
+			"garcellotired",
+			[
+				0,
+				220,
+				140
+			]
+		],
+		[
+			"release",
+			"garcellofinale",
+			[
+				146,
+				255,
+				175
+			]
+		],
+		[
+			"entourage",
+			"garcellofinale2",
+			[
+				0,
+				75,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"gar",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
